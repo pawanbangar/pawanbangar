@@ -19,4 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pawanbangar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pawanbangar&color=green)
+![](https://komarev.com/ghpvc/?username=pawanbangar&color=green)
