@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=pawanbangar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🏆 Holopin Trophies
-[![Holopin board](https://holopin.io/api/user/board?user=pawanbangar)](https://holopin.io/@pawanbangar)
+[![An image of @pawanbangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pawanbangar)](https://holopin.io/@pawanbangar)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pawanbangar&limit=5&theme=dark&combine_all_yearly_contributions=true)
