@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br><br>🔭 I’m currently working on - React, Java,Spring Boot and Python<br><br>👯 I’m looking to collaborate on - Generative Ai Project<br><br>💬 Ask me about - Reactjs ,Java, Spring Boot, Python ,Flutter or <br><br>📫 How to reach me: pawanbangar5360@gmail.com <br><br>![](https://komarev.com/ghpvc/?username=pawanbangar&color=green)
+### Hi there 👋<br><br><br>🔭 I’m currently working on - React, Java,Spring Boot and Python<br><br>👯 I’m looking to collaborate on - Generative Ai Project<br><br>💬 Ask me about - Reactjs ,Java, Spring Boot, Python ,Flutter or Typescript<br><br>📫 How to reach me: pawanbangar5360@gmail.com <br><br>![](https://komarev.com/ghpvc/?username=pawanbangar&color=green)
 
 
 ## 🌐 Socials:
